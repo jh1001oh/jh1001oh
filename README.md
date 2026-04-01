@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi
+
+[영남대학교 / 경제금융학과 / 컴퓨터공학과]
+
+안녕하세요. 핀테크 금융과 사용자 데이터를 기반으로 한 개인 맞춤형 서비스 구현 분야에 관심이 있습니다.
+
+Email: nyeong1001@gmail.com
 
 <!--
 **jh1001oh/jh1001oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-22212727
+
 
 Here are some ideas to get you started:
 
